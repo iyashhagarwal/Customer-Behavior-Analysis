@@ -1,7 +1,18 @@
 # 🛒 Customer Shopping Behavior Analysis
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ### End-to-End Data Analytics Project using Python, SQL & Power BI
+
+</div>
+
+---
 
 # 📌 Project Overview
 
@@ -252,7 +263,6 @@ This project helped improve my skills in:
 
 - LinkedIn: www.linkedin.com/in/yashhagarwal
 
-
 ---
 
 # ⭐ Support
@@ -263,3 +273,10 @@ If you found this project useful:
 - 🍴 Fork the project
 - 📢 Share feedback
 
+---
+
+<div align="center">
+
+### 🚀 Made with Python, SQL & Power BI
+
+</div>
